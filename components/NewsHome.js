@@ -7,7 +7,7 @@ const NewsHome = () => {
             <section className="blog-one blog-one__home thm-gray-bg" id="news">
                 <div className="container">
                     <div className="block-title text-center">
-                        <h2 className="block-title__title">Checkout Our <span>Latest</span> <br /> News & Articles.
+                        <h2 className="block-title__title">As <span>Últimas</span> <br /> do Blog.
                         </h2>
                     </div>
                     <div className="row">

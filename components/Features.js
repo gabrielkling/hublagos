@@ -5,7 +5,7 @@ const Features = () => {
             <section className="service-one" id="features">
                 <div className="container">
                     <div className="block-title text-center">
-                        <h2 className="block-title__title">Checkout Our <span>Software</span> <br /> Features Below.
+                        <h2 className="block-title__title">Conheça os nossos <span>Serviços</span> <br /> abaixo!
                         </h2>
                     </div>
                     <div className="row">
@@ -13,7 +13,7 @@ const Features = () => {
                             <div className="service-one__single text-center">
                                 <div className="service-one__inner">
                                     <i className="service-one__icon dimon-icon-laptop"></i>
-                                    <h3><a href="#">Speed <br /> Optimization</a></h3>
+                                    <h3><a href="#">Desenvolvimento <br /> Ágil</a></h3>
                                     <p>Lorem ipsum is are <br /> many variations of <br /> pass of majority.</p>
                                     <a href="#" className="service-one__link"><i className="dimon-icon-right-arrow"></i></a>
                                 </div>
@@ -23,7 +23,7 @@ const Features = () => {
                             <div className="service-one__single text-center">
                                 <div className="service-one__inner">
                                     <i className="service-one__icon dimon-icon-presentation"></i>
-                                    <h3><a href="#">Marketing <br /> Analysis</a></h3>
+                                    <h3><a href="#">Marketing <br /> Digital</a></h3>
                                     <p>Lorem ipsum is are <br /> many variations of <br /> pass of majority.</p>
                                     <a href="#" className="service-one__link"><i className="dimon-icon-right-arrow"></i></a>
                                 </div>
@@ -33,7 +33,7 @@ const Features = () => {
                             <div className="service-one__single text-center">
                                 <div className="service-one__inner">
                                     <i className="service-one__icon dimon-icon-target"></i>
-                                    <h3><a href="#">SEO and <br /> Backlinks</a></h3>
+                                    <h3><a href="#">Gerenciamento de <br /> Tráfego</a></h3>
                                     <p>Lorem ipsum is are <br /> many variations of <br /> pass of majority.</p>
                                     <a href="#" className="service-one__link"><i className="dimon-icon-right-arrow"></i></a>
                                 </div>
@@ -43,7 +43,7 @@ const Features = () => {
                             <div className="service-one__single text-center">
                                 <div className="service-one__inner">
                                     <i className="service-one__icon dimon-icon-visualization"></i>
-                                    <h3><a href="#">Content <br /> Marketing</a></h3>
+                                    <h3><a href="#">Marketing de <br /> Conteúdo</a></h3>
                                     <p>Lorem ipsum is are <br /> many variations of <br /> pass of majority.</p>
                                     <a href="#" className="service-one__link"><i className="dimon-icon-right-arrow"></i></a>
                                 </div>

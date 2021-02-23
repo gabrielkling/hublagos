@@ -63,7 +63,7 @@ export default class Blog extends Component {
                                         <li><a href="#">About</a></li>
                                         <li><a href="#">Our Team</a></li>
                                         <li><a href="#">Features</a></li>
-                                        <li><a href="#">Blog</a></li>
+                                        <li><a href="news">Blog</a></li>
                                         <li><a href="#">How It Works</a></li>
                                     </ul>
                                 </div>
@@ -102,7 +102,7 @@ export default class Blog extends Component {
                 <div className="site-footer__bottom">
                     <div className="container">
                         <div className="inner-container text-center">
-                            <p className="site-footer__copy">&copy; copyright 2020 by <a href="#">Layerdrops.com</a></p>
+                            <p className="site-footer__copy">&copy; Copyright 2020 por <a href="#">hublagos.com</a></p>
                         </div>
                     </div>
                 </div>

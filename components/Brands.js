@@ -35,7 +35,7 @@ const Brands = () => {
     }
 
     return (
-        <div className="brand-one">
+        <div id="brands" className="brand-one">
             <div className="container">
                 <div className="brand-one__carousel owl-carousel owl-theme">
 

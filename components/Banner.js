@@ -14,12 +14,12 @@ const Banner = () => {
                     <div className="row">
                         <div className="col-xl-6 col-lg-8">
                             <div className="banner-one__content">
-                                <h3 className="banner-one__title">We Deliver the <br />
-                                    <span>Software</span> you <br /> Need.</h3>
-                                <p className="banner-one__text">We are committed to providing our customers
-                                    with <br /> exceptional service while offering our employees the <br /> best training.
+                                <h3 className="banner-one__title"><span>Aumente</span> as suas vendas <br />
+                                conosco.</h3>
+                                <p className="banner-one__text">Nos comprometemos em levar para nossos clientes
+                                     <br /> os melhores serviços para o seu negócio <br /> crescer!
                                 </p>
-                                <a href="#" className="banner-one__btn thm-btn "><span>Get Started</span></a>
+                                <a href="#" className="banner-one__btn thm-btn "><span>Saiba Mais</span></a>
                             </div>
                         </div>
                     </div>

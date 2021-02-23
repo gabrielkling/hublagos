@@ -39,7 +39,7 @@ const Screenshots = () => {
             <img src="/assets/images/background/app-shot-bg.png" alt="Awesome Image" className="app-shot-one__bg" />
             <div className="container-fluid">
                 <div className="block-title text-center">
-                    <h2 className="block-title__title">Checkout Our App <br /> <span>Interface</span> Screenshots.
+                    <h2 className="block-title__title">Veja alguns Screenshots <br />  dos nossos<span> Trabalhos</span>
                     </h2>
                 </div>
                 <div className="app-shot-one__carousel">
