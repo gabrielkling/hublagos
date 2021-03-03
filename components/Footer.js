@@ -51,47 +51,38 @@ export default class Blog extends Component {
                                             0000</a></p>
 
                                         <p className="footer-widget__contact"><a
-                                            href="mailto:needhelp@example.com">needhelp@example.com</a></p>
-                                            <p className="footer-widget__contact">855 road, broklyn street <br/> new york
-                                                600</p>
+                                            href="mailto:needhelp@example.com">meajuda@hublagos.com</a></p>
+                                            <p className="footer-widget__contact">Saquarema <br/> Rio de Janeiro
+                                                </p>
                                 </div>
                             </div>
                             <div className="col-lg-6 d-flex justify-content-between footer-widget__links-wrap">
                                 <div className="footer-widget">
-                                    <h3 className="footer-widget__title">Explore</h3>
+                                    <h3 className="footer-widget__title">Sobre</h3>
                                     <ul className="footer-widget__links list-unstyled">
-                                        <li><a href="#">About</a></li>
-                                        <li><a href="#">Our Team</a></li>
-                                        <li><a href="#">Features</a></li>
+                                        <li><a href="#">Serviços</a></li>
+                                        <li><a href="#">Vantagens</a></li>
+                                        <li><a href="#">Portfólio</a></li>
                                         <li><a href="news">Blog</a></li>
-                                        <li><a href="#">How It Works</a></li>
                                     </ul>
                                 </div>
                                 <div className="footer-widget">
-                                    <h3 className="footer-widget__title">Services</h3>
+                                    <h3 className="footer-widget__title">Serviços</h3>
                                     <ul className="footer-widget__links list-unstyled">
-                                        <li><a href="#">Speed Optimization </a></li>
-                                        <li><a href="#">Marketing Analysis </a></li>
-                                        <li><a href="#">SEO and Backlinks </a></li>
-                                        <li><a href="#">Content Marketing</a></li>
+                                        <li><a href="#">Desenvolvimento Ágil </a></li>
+                                        <li><a href="#">Marketing Digital</a></li>
+                                        <li><a href="#">Gerenciamento de Tráfego </a></li>
+                                        <li><a href="#">Marketing de Conteúdo</a></li>
                                     </ul>
                                 </div>
-                                <div className="footer-widget">
-                                    <h3 className="footer-widget__title">Links</h3>
-                                    <ul className="footer-widget__links list-unstyled">
-                                        <li><a href="#">Help </a></li>
-                                        <li><a href="#">Support </a></li>
-                                        <li><a href="#">Clients </a></li>
-                                        <li><a href="#">Contact</a></li>
-                                    </ul>
-                                </div>
+                                
                             </div>
                             <div className="col-lg-3">
                                 <div className="footer-widget">
                                     <div className="site-footer__social">
-                                        <a href="#" className="fa fa-facebook-square"></a>
-                                        <a href="#" className="fa fa-twitter"></a>
-                                        <a href="#" className="fa fa-instagram"></a>
+                                        <a href="https://facebook.com/hublagosmidia" className="fa fa-facebook-square"></a>
+                                        <a href="https://behance.net/hublagos" className="fa fa-behance"></a>
+                                        <a href="https://instagram.com/hublagos" className="fa fa-instagram"></a>
                                         <a href="#" className="fa fa-pinterest-p"></a>
                                     </div>
                                 </div>
