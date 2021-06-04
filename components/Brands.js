@@ -55,6 +55,18 @@ const Brands = () => {
                         <div className="item">
                             <img src="/assets/images/resources/5.jpg" alt="" />
                         </div>
+                        <div className="item">
+                            <img src="/assets/images/resources/6.jpg" alt="" />
+                        </div>
+                        <div className="item">
+                            <img src="/assets/images/resources/7.jpg" alt="" />
+                        </div>
+                        <div className="item">
+                            <img src="/assets/images/resources/8.jpg" alt="" />
+                        </div>
+                        <div className="item">
+                            <img src="/assets/images/resources/9.jpg" alt="" />
+                        </div>
                        
                     </Swiper>
                 </div>
