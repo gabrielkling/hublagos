@@ -41,41 +41,21 @@ const Brands = () => {
 
                     <Swiper {...params}>
                         <div className="item">
-                            <img src="/assets/images/resources/brand-1-1.png" alt="" />
+                            <img src="/assets/images/resources/1.jpg" alt="" />
                         </div>
                         <div className="item">
-                            <img src="/assets/images/resources/brand-1-1.png" alt="" />
+                            <img src="/assets/images/resources/2.jpg" alt="" />
                         </div>
                         <div className="item">
-                            <img src="/assets/images/resources/brand-1-1.png" alt="" />
+                            <img src="/assets/images/resources/3.jpg" alt="" />
                         </div>
                         <div className="item">
-                            <img src="/assets/images/resources/brand-1-1.png" alt="" />
+                            <img src="/assets/images/resources/4.jpg" alt="" />
                         </div>
                         <div className="item">
-                            <img src="/assets/images/resources/brand-1-1.png" alt="" />
+                            <img src="/assets/images/resources/5.jpg" alt="" />
                         </div>
-                        <div className="item">
-                            <img src="/assets/images/resources/brand-1-1.png" alt="" />
-                        </div>
-                        <div className="item">
-                            <img src="/assets/images/resources/brand-1-1.png" alt="" />
-                        </div>
-                        <div className="item">
-                            <img src="/assets/images/resources/brand-1-1.png" alt="" />
-                        </div>
-                        <div className="item">
-                            <img src="/assets/images/resources/brand-1-1.png" alt="" />
-                        </div>
-                        <div className="item">
-                            <img src="/assets/images/resources/brand-1-1.png" alt="" />
-                        </div>
-                        <div className="item">
-                            <img src="/assets/images/resources/brand-1-1.png" alt="" />
-                        </div>
-                        <div className="item">
-                            <img src="/assets/images/resources/brand-1-1.png" alt="" />
-                        </div>
+                       
                     </Swiper>
                 </div>
             </div>
